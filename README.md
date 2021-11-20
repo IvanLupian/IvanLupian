@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IvanLupian
-- 👀 I’m interested in international logistics and purchasing in any sector.
+- 👀 I’m interested in international logistics and purchasing at any sector.
 - 🌱 I’m currently learning data analytics by Google and IBM
 - 💞️ I’m looking to collaborate on any project that involves databases and giving solution
 - 📫 You can contact me by email ivan_lupian@hotmail.com or ivan.lupian@hotmail.com
