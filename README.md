@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IvanLupian
-- 👀 I’m interested in international logistics and purchasing at any sector
-- 🌱 I’m currently learning data analytics
-- 💞️ I’m looking to collaborate on any project that involves databases, data-driven and solutions
+- 👀 I’m interested in international logistics and purchasing
+- 🌱 I’m currently on my way to the magnificent world of data analytics
+- 💞️ I’m looking to collaborate on any project that involves databases, data-driven solutions
 
 <!---
 IvanLupian/IvanLupian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
